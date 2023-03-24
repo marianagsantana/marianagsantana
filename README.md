@@ -1,8 +1,7 @@
 ### Oii, eu sou a Mariana Gonçalves Santana 👋
 
-- 🔭 Hoje trabalho como estagiária
+- 🔭 Estagiária
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://beacons.ai/marianagsantana">
